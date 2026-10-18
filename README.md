@@ -34,18 +34,29 @@ Each link always points to the newest verified release. Older installers are att
 ## Private by design
 
 - Speech recognition runs on your device (NVIDIA Parakeet). Your audio is never uploaded.
-- After a one-time download of the speech model (about 0.7 GB on Windows and Android, 1.4 GB on a Mac), dictation works offline.
+- After a one-time download of the speech model (about 0.7 GB on Windows and Android, 1.4 GB on a Mac), recognition works offline. The app checks your access online at least once every 24 hours.
 - Your dictation history stays on your device, where you can search, copy or delete it.
 
 ## Languages
 
 25 European languages, detected from each recording with no setting to change: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish and Ukrainian.
 
+For 13 of them the computer's own dictation is missing or runs only in the cloud, so each has a page in its own language: [Bulgarian](https://yapapp.cc/languages/bulgarian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Croatian](https://yapapp.cc/languages/croatian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Czech](https://yapapp.cc/languages/czech?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Estonian](https://yapapp.cc/languages/estonian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Greek](https://yapapp.cc/languages/greek?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Hungarian](https://yapapp.cc/languages/hungarian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Latvian](https://yapapp.cc/languages/latvian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Lithuanian](https://yapapp.cc/languages/lithuanian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Polish](https://yapapp.cc/languages/polish?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Romanian](https://yapapp.cc/languages/romanian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Slovak](https://yapapp.cc/languages/slovak?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Slovenian](https://yapapp.cc/languages/slovenian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages), [Ukrainian](https://yapapp.cc/languages/ukrainian?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=languages).
+
 ## Pricing
 
-- **3 free days** from the first time you open the app, with no account and no card.
+- **3 free days** with a free account (just your email, no card).
 - Then a **10-day trial** with a card.
 - Then **USD 6.90 a month or USD 69 a year**. One subscription covers your Mac, your Windows PCs and your phone. Cancel anytime.
+
+## Guides
+
+- [Dictation app for Windows 10 and 11](https://yapapp.cc/windows?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides) and [dictation on Windows on Arm](https://yapapp.cc/windows-on-arm-dictation?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides)
+- [Voice to text on a Mac](https://yapapp.cc/voice-to-text-mac?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides) and [how offline Mac dictation works](https://yapapp.cc/offline-dictation-mac?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides)
+- [Dictating into Claude Code and other coding agents](https://yapapp.cc/claude-code-dictation?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides)
+- Free tools that run in your browser: [online dictation](https://yapapp.cc/online-dictation?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides) and [audio to text with subtitles](https://yapapp.cc/audio-to-text?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides)
+- Compared with [Wispr Flow](https://yapapp.cc/wispr-flow-alternative?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides), [Superwhisper](https://yapapp.cc/superwhisper-alternative?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides) and [Aqua Voice](https://yapapp.cc/aqua-voice-alternative?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides)
+- [The dictation library](https://yapapp.cc/learn?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026&utm_content=guides): guides and answers on dictation and speech to text, every number linked to its source
 
 ## Questions
 
