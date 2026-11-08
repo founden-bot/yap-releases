@@ -1,4 +1,4 @@
-# Yap: private voice dictation for Mac, Windows and Android
+# Yap: private voice dictation for Mac, Windows, iPhone and Android
 
 Hold a shortcut, speak, and let go. Yap turns your speech into clean, punctuated text and types it into the app you are using: email, documents, chat, browsers, terminals and coding agents. Speech recognition runs on your own device, so your recordings are not uploaded.
 
@@ -16,7 +16,7 @@ This repository hosts the Windows and Android installers of each release, plus p
 | Windows | Windows 10 or 11, 64-bit (x64) | [Latest installer](https://yapapp.cc/api/desktop/download?platform=windows) |
 | Windows on Arm | Windows 11 on Snapdragon and other Arm64 PCs, native build | [Latest Arm64 installer](https://yapapp.cc/api/desktop/download?platform=windows&arch=arm64) |
 | Android | Android 10 or later | [Google Play](https://play.google.com/store/apps/details?id=cc.yapapp.android) or the [latest APK](https://yapapp.cc/api/desktop/download?platform=android) |
-| iPhone | iPhone 12 Pro, 13 Pro, 14 or newer, iOS 17 or later | [Public beta on TestFlight](https://testflight.apple.com/join/uc2u5VXe) |
+| iPhone | iPhone 12 Pro, 13 Pro, 14 or newer, iOS 17 or later | [App Store](https://apps.apple.com/app/id6817714973) |
 
 Each link always points to the newest verified release. Older installers are attached to the [releases](https://github.com/founden-bot/yap-releases/releases), with SHA-256 checksums in each release's notes. Setup steps for every device: [yapapp.cc/download](https://yapapp.cc/download?utm_source=github&utm_medium=readme&utm_campaign=github-readme-oct2026).
 
